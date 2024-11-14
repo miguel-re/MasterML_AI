@@ -36,8 +36,20 @@ Using data science cookie cutter strategy in each Module, task or evidence.
   - config.py                   <- Store useful variables and config
   - dataset.py                  <- Scripts to download or generate data
   - features.py                 <- Code to create features for modeling
-  - modeling                    
+  - modeling        
     - __init__.py               
     - predict.py                <- Code to run model inference with trained models
     - train.py                  <- Code to train models
   - plot.py                     <- Code to create plots
+
+# Tags
+
+## Module 1
+
+Includes the data, projects, and assigments learned in module 1 of the Master.
+
+You may see only docs because it was an introductory learning using and developing models in IBM Watson Studio.
+
+## Module 2
+
+Here you'll find more develop in jupyter notebook. I may include the requeriments used for this module, because I incorporate distinct database from repositories in python libraries.
