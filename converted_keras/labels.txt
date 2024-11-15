@@ -1,0 +1,6 @@
+0 black dress
+1 black pants
+2 black shirt
+3 white dress
+4 red dress
+5 green pants
