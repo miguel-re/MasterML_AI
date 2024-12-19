@@ -1,18 +1,11 @@
-# MasterML_AI
-Repository that includes all codes of the master from University Tecmilenio.
+# Module 1
+This repository includes all codes from the Module 1 of master in Machine Learning and Artificial Intelligence.
 
 # Overview
 
-Since January 2024 I started my studies in University Tecmilenio, where I applied for a masters degree as specialist in Artifial Intelligence and Machine Learning MLOps.
-I`ve used different tools such as:
+This module was an introduction to Machine Learning using Python and IBM Watson Studio. In this branch you'll find different Jupyter notebooks that explain a brief introduction to different tools while using Python.
 
-- IBM Watson Studio
-- Python:
-  - LLM Models
-  - Supervised and Unsupervised data and models
-  - Neural Networks
-  - Different libraries such as numpy, sklearn, pandas, seaborn, matplotlib.
-- Jupyter notebooks.
+It also includes an introduction to NN (Neural Networks) with an example that was deployed using IBM Watson.
 
 # Structure of the project
 
@@ -41,15 +34,3 @@ Using data science cookie cutter strategy in each Module, task or evidence.
     - predict.py                <- Code to run model inference with trained models
     - train.py                  <- Code to train models
   - plot.py                     <- Code to create plots
-
-# Tags
-
-## Module 1
-
-Includes the data, projects, and assigments learned in module 1 of the Master.
-
-You may see only docs because it was an introductory learning using and developing models in IBM Watson Studio.
-
-## Module 2
-
-Here you'll find more develop in jupyter notebook. I may include the requeriments used for this module, because I incorporate distinct database from repositories in python libraries.
